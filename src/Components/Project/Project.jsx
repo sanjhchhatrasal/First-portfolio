@@ -9,7 +9,7 @@ import { NavLink } from 'react-router-dom'
 
 function Project() {
   return (
-    <div className='h-[110vh] w-full bg-slate-100 px-[5vw] text-center'>
+    <div className='h-[110vh] w-full bg-slate-100 dark:bg-slate-900 dark:text-white  px-[5vw] text-center'>
       <h1 className='lg:text-[3vw] sm:text-[3.5vw] text-[4.2vw] font-semibold w-[60vw] py-[1vw] lg:pl-[25vw] pl-[20vw]'>Here are my<span className='text-orange-700'> Projects </span> </h1>
       <div className='w-full h-[100vh] flex-wrap grid grid-cols-2 gap-4 sm:gap-6 sm:grid-cols-3'>
         <div className="lg:h-[19vw] lg:w-[25vw] sm:h-[23vw] sm:w-[28vw]">
