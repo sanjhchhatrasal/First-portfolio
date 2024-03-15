@@ -9,7 +9,7 @@ function Header() {
 <>
 <div className=' h-fit w-full bg-slate-100 dark:bg-slate-900 dark:text-white px-[5vw] sm:py-[2vw] flex items-center justify-between sticky top-0'>
       <h1 className={`${menuOpen ? "mt-[-30vw]" : "mt-0"} sm:text-[2vw] text-[3.5vw] font-semibold sm:mt-0`}>Sanjh <span className='text-orange-700'>Chhatrasal</span></h1>
-      <div className={`${menuOpen ? "mt-[-29vw]" : "mt-0"} menu flex flex-col justify-between w-[2.25rem] h-2rem sm:hidden ml-[75vw] absolute sm:mt-0 mt-[0vw]`} onClick={() => {setMenuOpen(!menuOpen)}}>
+      <div className={`${menuOpen ? "mt-[-0vw]" : "mt-0"} menu flex flex-col justify-between w-[2.25rem] h-2rem sm:hidden ml-[75vw] absolute sm:mt-0 mt-[0vw]`} onClick={() => {setMenuOpen(!menuOpen)}}>
         <span className='h-[0.3rem] w-[100%] bg-zinc-800 dark:bg-zinc-100 rounded-xl my-[0.15vw]'></span>
         <span className='h-[0.3rem] w-[100%] bg-zinc-800 dark:bg-zinc-100 rounded-xl my-[0.15vw]'></span>
         <span className='h-[0.3rem] w-[100%] bg-zinc-800 dark:bg-zinc-100 rounded-xl my-[0.15vw]'></span>
