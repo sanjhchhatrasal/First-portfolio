@@ -77,7 +77,7 @@ function Header() {
       </div>
       <div className='flex items-center gap-[2vw] '>
                         <Theme />
-                        <h1 className='sm:text-[1.7vw] text-[3vw] sm:flex hidden font-semibold'>Portfolio <span className='text-orange-700'>Website</span></h1>
+                        <h1 className={`${menuOpen ? "flex" : "hidden"} sm:text-[1.7vw] text-[3vw] sm:flex hidden font-semibold`}>Portfolio <span className='text-orange-700'>Website</span></h1>
                     </div>
 {/*       <h1 className='sm:text-[1.7vw] text-[3vw] sm:flex hidden font-semibold'>Portfolio <span className='text-orange-700'>Website</span></h1>
  */}     </div>
