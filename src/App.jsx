@@ -5,7 +5,7 @@ import { Outlet } from 'react-router-dom'
 import { ThemeProvider } from './Contexts/Theme'
 
 function App() {
-  const [themeMode, setThemeMode] = useState("dark")
+  const [themeMode, setThemeMode] = useState("light")
 
   const lightMode = () =>{
     setThemeMode("light")
