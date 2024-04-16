@@ -71,7 +71,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Contact
 
-For inquiries or feedback, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+For inquiries or feedback, feel free to reach out to me at [sanjhchhatrasal@gmail.com](mailto:sanjhchhatrasal@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sanjh-chhatrasal-663b66262/?originalSubdomain=in)).
 
 ---
 
