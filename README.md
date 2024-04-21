@@ -1,6 +1,3 @@
-Here's a README file draft for your First-portfolio GitHub repository:
-
----
 
 # First Portfolio Website 🌐
 
@@ -75,4 +72,3 @@ For inquiries or feedback, feel free to reach out to me at [sanjhchhatrasal@gmai
 
 ---
 
-Feel free to customize the content, add more sections, or include relevant images as needed for your portfolio's README!
