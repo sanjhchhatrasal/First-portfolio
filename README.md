@@ -1,8 +1,6 @@
 
 # First Portfolio Website 🌐
 
-![First Portfolio Website](https://github.com/sanjhchhatrasal/First-portfolio/blob/main/src/assets/images/portfolio-screenshot.png)
-
 This repository contains the source code for my first portfolio website, showcasing my skills, projects, and experiences as a frontend developer.
 
 👉 Live Demo: <a href='https://merry-piroshki-8a0f62.netlify.app/'>Website Demo</a>
